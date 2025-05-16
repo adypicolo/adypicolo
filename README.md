@@ -68,7 +68,7 @@ When I'm not coding, I'm either explaining C++ to my peers, optimizing server lo
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianvlad456&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adypicolo&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianvlad456&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adypicolo&theme=tokyonight" />
 </p>
