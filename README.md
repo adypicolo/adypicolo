@@ -16,14 +16,14 @@ When I'm not coding, I'm either explaining C++ to my peers, optimizing server lo
 ### ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,matlab,html,css,js,linux,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,matlab,linux,docker,git,vscode" />
 </p>
 
 ---
 
 ### 📌 Core Skills
 
-- 💡 Object-Oriented Design (Java / C++ / C#)
+- 💡 Object-Oriented Design (Java / C++)
 - 🛠️ DevOps & Infrastructure (Linux, Docker, shell scripting)
 - 🎯 Debugging, profiling, system monitoring & optimization
 - 🧠 Analytical mindset & fast learning curve
