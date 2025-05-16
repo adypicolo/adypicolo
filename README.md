@@ -16,7 +16,7 @@ When I'm not coding, I'm either explaining C++ to my peers, optimizing server lo
 ### ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,matlab,html,css,js,linux,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,matlab,html,css,js,linux,docker,git,vscode" />
 </p>
 
 ---
