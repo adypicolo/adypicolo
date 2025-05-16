@@ -41,7 +41,7 @@ When I'm not coding, I'm either explaining C++ to my peers, optimizing server lo
 
 ---
 
-### 🎮 Side Project — [PKBCRAFT](https://store.pkbcraft.ro)
+### 🎮 Side Project — [PKBCRAFT](https://pkbcraft.ro)
 
 > *"More than a Minecraft server — it's a tech playground."*
 
