@@ -87,7 +87,7 @@ When I'm not coding, I mentor peers in C++ OOP or contribute to open-source proj
 
 - 💌 Email: [adrianvlad456@gmail.com](mailto:adrianvlad456@gmail.com)  
 - 🌍 Location: Bucharest, Romania  
-- 📄 Want my CV? You can download it here: [CV PDF](./Adrian_Vlad_CV.pdf)  
+- 📄 Want my CV? You can download it here: [CV PDF](./CV_VLAD_ADRIAN.pdf)  
 
 ---
 
