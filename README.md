@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hey there, I'm Adrian Vlad!</h1>
 <p align="center">
-  💻 Programmer Enthusiast | 🎮 Minecraft Developer | 👨‍🏫 C++ OOP TA @UPB<br>
+  💻 Engineering Student | Python Developer | AI Enthusiast | System Administration<br>
   Crafting performant systems & helping others grow through code.
 </p>
 
@@ -8,62 +8,86 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate software & infrastructure developer from Bucharest, currently pursuing a degree in **Mathematics and Computer Science** at **Politehnica University of Bucharest**.  
-When I'm not coding, I'm either explaining C++ to my peers, optimizing server loads, or designing game logic for Minecraft communities.
+I'm a third-year **Mathematics and Computer Science** student at **Politehnica University of Bucharest**.  
+I have hands-on experience in Python development, system administration, automation, and backend engineering.  
+Currently exploring **AI, DevOps, and scalable system design**.  
+
+When I'm not coding, I mentor peers in C++ OOP, optimize Minecraft servers, or contribute to open-source projects.
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,cs,python,matlab,linux,docker,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,linux,docker,bash,git,gitlab,vscode" />
 </p>
 
 ---
 
 ### 📌 Core Skills
 
-- 💡 Object-Oriented Design (Java / C++)
-- 🛠️ DevOps & Infrastructure (Linux, Docker, shell scripting)
-- 🎯 Debugging, profiling, system monitoring & optimization
-- 🧠 Analytical mindset & fast learning curve
-- 🎓 Peer education, mentoring & public speaking
+- 💡 Object-Oriented Programming & Data Structures (Python, C++, Java)  
+- 🛠️ DevOps & Infrastructure (Linux, Bash, Docker, CI/CD, Monitoring)  
+- 🎯 Debugging, profiling, system monitoring & optimization  
+- 🧠 Analytical mindset, fast learner & collaborative  
+- 🎓 Teaching, mentoring & technical documentation  
 
 ---
 
-### 🏆 Career Highlights
+### 🎓 Education
 
-- ⚒️ Co-Founded **PKBCRAFT Romania** – built from scratch a full-featured Minecraft server with custom logic & automation  
-- 🧑‍🏫 Volunteered as **Teaching Assistant** at UPB — helped dozens of students understand C++ & OOP principles  
-- 🔐 Designed security layers & anti-cheat mechanics for gaming servers  
-- ⚙️ Developed internal automation tools for server resource balancing  
-- 📊 Delivered technical support & documentation for player-facing systems
+- **University POLITEHNICA of Bucharest** — BSc in Mathematics & Computer Science (2023–Present)  
+  Relevant coursework: Python, MySQL, C++, MATLAB
 
----
-
-### 🎮 Side Project — [PKBCRAFT](https://pkbcraft.ro)
-
-> *"More than a Minecraft server — it's a tech playground."*
-
-- ✅ Engineered uptime & performance automation (RAM/CPU tracking, alerts)
-- 💬 Built community tools: Discord bots, backend moderation tools
-- 💸 Developed monetization flow (subscriptions, events, server shops)
-- 🛡️ Integrated plugin-level security & version compatibility updates
+- **Liceul Borșa** — High School Diploma in Mathematics & Computer Science (2023)  
+  Romanian Baccalaureate, Programming Competency Certificate  
 
 ---
 
-### 🤝 Volunteering & Involvement
+### 🏆 Projects & Experience
 
-- 📦 **Logistics @ LSFSA** – organized academic & student community events  
-- 🧑‍🎓 Active role in university labs, student mentorship & resource sharing
+#### **PKBCRAFT Romania** — Scripter & System Administrator (Feb 2021 – Oct 2025)  
+> Community-driven Minecraft server project
+
+- Optimized server performance, reduced latency by 30%, and maintained 99.9% uptime  
+- Implemented automation for backups, maintenance, and plugin updates  
+- Deployed and maintained core services (MySQL, Redis, custom plugins)  
+- Designed monitoring, alerting (Grafana, Prometheus), and security systems  
+- Provided L1–L2 technical support and internal documentation  
+
+#### **Teaching Assistant @ UPB** (Jan 2025 – Jun 2025)  
+- Guided ~15 students per lab in Object-Oriented Programming (C++)  
+- Explained concepts, debugging techniques, and helped improve problem-solving skills  
+
+---
+
+### 🏅 Certifications & Courses
+
+- **Atestat Profesional în Informatică** — Liceul Borșa, 2023  
+- **Complete Python Developer: Zero to Mastery** — Udemy, In Progress 2026  
+- **Data Structures and Algorithms in Python** — Udemy, In Progress 2026  
+
+---
+
+### 🎮 Side Projects
+
+- **Minecraft Server Tools & Automation** — built bots, backend tools, monetization flow, and security plugins  
+- **CI/CD Pipelines** — automated deployment & testing for small-scale services  
+
+---
+
+### 🤝 Volunteering & Community
+
+- Teaching, mentoring, and student lab support at university  
+- Logistics support for academic & student community events  
 
 ---
 
 ### 📬 Contact Me
 
-- 💌 Email: [adrianvlad456@gmail.com](mailto:adrianvlad456@gmail.com)
-- 🌍 City: Bucharest, Romania
-- 📄 Want my CV? Just ask!
+- 💌 Email: [adrianvlad456@gmail.com](mailto:adrianvlad456@gmail.com)  
+- 🌍 Location: Bucharest, Romania  
+- 📄 Want my CV? You can download it here: [CV PDF](./Adrian_Vlad_CV.pdf)  
 
 ---
 
