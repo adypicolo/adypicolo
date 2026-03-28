@@ -12,7 +12,7 @@ I'm a third-year **Mathematics and Computer Science** student at **Politehnica U
 I have hands-on experience in Python development, system administration, automation, and backend engineering.  
 Currently exploring **AI, DevOps, and scalable system design**.  
 
-When I'm not coding, I mentor peers in C++ OOP, optimize Minecraft servers, or contribute to open-source projects.
+When I'm not coding, I mentor peers in C++ OOP or contribute to open-source projects.
 
 ---
 
