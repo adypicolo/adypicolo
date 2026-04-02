@@ -19,7 +19,7 @@ When I'm not coding, I mentor peers in C++ OOP or contribute to open-source proj
 ### ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,linux,docker,bash,git,gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,linux,docker,bash,git,gitlab,vscode" />
 </p>
 
 ---
@@ -46,18 +46,24 @@ When I'm not coding, I mentor peers in C++ OOP or contribute to open-source proj
 
 ### 🏆 Projects & Experience
 
+#### **Python Developer — Operations Research Projects** (Mar 2025 – Present)
+- Developed a **Simplex Algorithm** solver with real-time visualization of tableau pivots and computation steps.
+- Built an interactive desktop GUI using **CustomTkinter** for linear programming and mathematical modeling.
+- Implemented **Game Theory** modules focusing on Nash equilibrium detection and mixed strategy analysis.
+- Utilized **NumPy** for high-performance mathematical computations and matrix operations.
+- 🔗 **Repo:** [Operations Research Project](https://github.com/adypicolo/PROIECT_CO)
+
 #### **PKBCRAFT Romania** — Scripter & System Administrator (Feb 2021 – Oct 2025)  
 > Community-driven Minecraft server project
 
-- Optimized server performance, reduced latency by 30%, and maintained 99.9% uptime  
-- Implemented automation for backups, maintenance, and plugin updates  
-- Deployed and maintained core services (MySQL, Redis, custom plugins)  
-- Designed monitoring, alerting (Grafana, Prometheus), and security systems  
-- Provided L1–L2 technical support and internal documentation  
+- Optimized server performance, reduced latency by 30%, and maintained 99.9% uptime.
+- Implemented automation for backups, maintenance, and updates using **Bash** and **JVM tuning**.
+- Deployed and maintained core services (MariaDB, Redis) and monitoring stacks (Grafana, Pterodactyl).
+- Strengthened platform security via firewall rules, IDS/IPS, and automated backup policies.
 
 #### **Teaching Assistant @ UPB** (Jan 2025 – Jun 2025)  
-- Guided ~15 students per lab in Object-Oriented Programming (C++)  
-- Explained concepts, debugging techniques, and helped improve problem-solving skills  
+- Guided ~15 students per lab in **Object-Oriented Programming (C++)**.
+- Explained concepts, debugging techniques, and helped improve problem-solving skills.
 
 ---
 
@@ -69,17 +75,10 @@ When I'm not coding, I mentor peers in C++ OOP or contribute to open-source proj
 
 ---
 
-### 🎮 Side Projects
-
-- **Minecraft Server Tools & Automation** — built bots, backend tools, monetization flow, and security plugins  
-- **CI/CD Pipelines** — automated deployment & testing for small-scale services  
-
----
-
 ### 🤝 Volunteering & Community
 
-- Teaching, mentoring, and student lab support at university  
-- Logistics support for academic & student community events  
+- Teaching, mentoring, and student lab support at university.
+- Logistics support for academic & student community events.
 
 ---
 
