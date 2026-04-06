@@ -19,7 +19,7 @@ When I'm not coding, I mentor peers in C++ OOP or contribute to open-source proj
 ### ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,linux,docker,bash,git,gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,linux,bash,git,gitlab,vscode" />
 </p>
 
 ---
@@ -27,7 +27,7 @@ When I'm not coding, I mentor peers in C++ OOP or contribute to open-source proj
 ### 📌 Core Skills
 
 - 💡 Object-Oriented Programming & Data Structures (Python, C++, Java)  
-- 🛠️ DevOps & Infrastructure (Linux, Bash, Docker, CI/CD, Monitoring)  
+- 🛠️ DevOps & Infrastructure (Linux, Bash, CI/CD, Monitoring)  
 - 🎯 Debugging, profiling, system monitoring & optimization  
 - 🧠 Analytical mindset, fast learner & collaborative  
 - 🎓 Teaching, mentoring & technical documentation  
