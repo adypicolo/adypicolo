@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a third-year **Mathematics and Computer Science** student at **Politehnica University of Bucharest**.  
+I'm a final-year **Mathematics and Computer Science** student at **Politehnica University of Bucharest**.  
 I have hands-on experience in Python development, system administration, automation, and backend engineering.  
 Currently exploring **AI, DevOps, and scalable system design**.  
 
